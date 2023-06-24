@@ -1,4 +1,5 @@
 description:
+
 ![Image alt](https://github.com/nzhkv/MyDaysApp/blob/main/SimulatorScreenShot.png)
 
 simple project just to remember how everything works
